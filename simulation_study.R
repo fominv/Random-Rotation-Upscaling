@@ -12,9 +12,9 @@ cap <- 5:16
 seeds <- get_seeds()
 
 # Test Run dimensions, cap and seeds. Uncomment to the test the code!
-dimensions <- c(10,50)
-cap <- 10:11
-seeds <- get_seeds()[c(1,2)]
+#dimensions <- c(10,50)
+#cap <- 10:11
+#seeds <- get_seeds()[c(1,2)]
 
 # Define sample parameters.
 size = 12500
