@@ -1,4 +1,4 @@
-# Random Rotation Upscaling Study
+# Random Rotation Upscaling
 This repository contains files necessary to perform the presented simulation study on Random Rotation Upscaling in my master thesis.
 
 ### How to use this repository?
