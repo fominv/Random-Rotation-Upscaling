@@ -8,3 +8,4 @@ Download all files and run simulation_study.R. To obtain the same data set as pr
 ### How to run a quick test to check if the code really works?
 
 Uncomment lines 15-17 in simulation_study.R. Note that this will override the provided data set data.Rdata.
+The quick test takes around 10 minutes to complete.
