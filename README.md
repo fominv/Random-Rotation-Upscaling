@@ -3,7 +3,7 @@ This repository contains files necessary to perform the presented simulation stu
 
 ### How to use this repository?
 
-Just run simulation_study.R. To obtain the same data set as presented in the thesis run construct_data_set.R afterwards. Optionally, the final simulation output obtained from the high performance computing cluster Leonhard is provided in the file data_full_simulation.Rdata.
+Install the dependencies commented in simulation_study.R and run the script. To obtain the same data set as presented in the thesis run construct_data_set.R afterwards. Optionally, the final simulation output obtained from the high performance computing cluster Leonhard is provided in the file data_full_simulation.Rdata.
 
 ### How to run a quick test to check if the code really works?
 
