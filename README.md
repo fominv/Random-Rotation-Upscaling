@@ -1,5 +1,10 @@
+ <font color="red">**NOTE:**</font> This repository may be out of date. It will not be changed however, as it is linked the corresponding paper. For an updated repository visit [here](https://gitea.fomin.xyz/vfomin/Random_Rotation_Upscaling)!
+ 
+ ***
+
 # Random Rotation Upscaling
-This repository contains files necessary to perform the presented simulation study on Random Rotation Upscaling in my master thesis.
+
+This repository contains files necessary to perform the simulation study on Random Rotation Upscaling in my master thesis.
 
 ### How to use this repository?
 
