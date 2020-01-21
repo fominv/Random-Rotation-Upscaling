@@ -1,4 +1,4 @@
- <font color="red">**NOTE:**</font> This repository may be out of date. It will not be changed however, as it is linked the corresponding paper. For an updated repository visit [here](https://gitea.fomin.xyz/vfomin/Random_Rotation_Upscaling)!
+ <font color="red">**NOTE:**</font> This repository may be out of date. It will not be changed however, as it is linked to the corresponding paper. For an updated repository visit [here](https://gitea.fomin.xyz/vfomin/Random_Rotation_Upscaling)!
  
  ***
 
